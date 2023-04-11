@@ -3383,8 +3383,8 @@ hr {
 /* line 627, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 
 .preloader .preloader-circle {
-    width: 250px;
-    height: 250px;
+    width: 125px;
+    height: 125px;
     position: relative;
     border-style: solid;
     border-width: 1px;
