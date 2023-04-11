@@ -1,5 +1,5 @@
 <?php
-
+	session_start();
     $to = "rockybd1995@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
@@ -33,5 +33,39 @@
 	$body .= "</body></html>";
 
     $send = mail($to, $subject, $body, $headers);
+	// Define the language options and their corresponding translations
+$languages = array(
+    'en' => array(
+        'name' => 'English',
+        'file' => 'lang_en.php' // Path to the English translation file
+    ),
+    'bn' => array(
+        'name' => 'Bangla',
+        'file' => 'lang_bn.php' // Path to the Bangla translation file
+    ),
+    'ar' => array(
+        'name' => 'Arabic',
+        'file' => 'lang_ar.php' // Path to the Arabic translation file
+    ),
+    'hi' => array(
+        'name' => 'Hindi',
+        'file' => 'lang_hi.php' // Path to the Hindi translation file
+    )
+);
+
+// Set the default language to English
+if (!isset($_SESSION['language'])) {
+    $_SESSION['language'] = 'en';
+}
+
+// Check if the language selection has been changed
+if (isset($_GET['lang']) && array_key_exists($_GET['lang'], $languages)) {
+    // Update the session variable with the selected language
+    $_SESSION['language'] = $_GET['lang'];
+}
+
+// Include the translation file for the current language
+include $languages[$_SESSION['language']]['file'];
+?>
 
 ?>
