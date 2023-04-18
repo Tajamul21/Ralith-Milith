@@ -53,12 +53,13 @@
                                 <div class="header-social">
                                     <ul>
                                         <li><a href="https://twitter.com/antidrugsociety"><i
-                                            class="fab fa-twitter"></i></a></li>
+                                                    class="fab fa-twitter"></i></a></li>
                                         <li><a href="https://www.facebook.com/AntiDrugSociety/"><i
-                                            class="fab fa-facebook-f"></i></a></li>
+                                                    class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="https://www.linkedin.com/in/ralith-milith-7520ab1b7/?originalSubdomain=in"><i
-                                            class="fab fa-linkedin-in"></i></a></li>
-                                        <li> <a href="https://www.instagram.com/anti_drug_society/"><i class="fab fa-instagram"></i></a></li>
+                                                    class="fab fa-linkedin-in"></i></a></li>
+                                        <li> <a href="https://www.instagram.com/anti_drug_society/"><i
+                                                    class="fab fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -67,11 +68,11 @@
                                     <form action="#">
                                         <div class="select-itms">
                                             <select name="select" id="select1">
-                                                    <option value="">English</option>
-                                                    <option value="">Bangla</option>
-                                                    <option value="">Arabic</option>
-                                                    <option value="">Hindi</option>
-                                                </select>
+                                                <option value="">English</option>
+                                                <option value="">Bangla</option>
+                                                <option value="">Arabic</option>
+                                                <option value="">Hindi</option>
+                                            </select>
                                         </div>
                                     </form>
                                 </div>
@@ -116,7 +117,7 @@
                                 </div>
                                 <!-- Header-btn -->
                                 <div class="header-right-btn d-none d-lg-block ml-20">
-                                    <a href="a_contact.html" class="btn header-btn">Anonymous Contact</a>
+                                    <a href="contact.html" class="btn header-btn">Anonymous Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -148,8 +149,8 @@
     </div>
     <!-- Hero End -->
     <div class="container mt-80">
-        <h1>We are here to Listen You &#x1F60A; </h1> <br>
-        <form>
+        <h1 id="form-heading">We are here to Listen You &#x1F60A;</h1> <br>
+        <form id="contact-form" method="post" action="https://script.google.com/macros/s/AKfycbx8mhYWxSCeauf5_hM0nZ3XXHwnRg_edX0VLFlGH-d03F_fglTH3SoSUcsp-V-M-uXO/exec">
             <div class="form-check mb-3">
                 <input class="form-check-input" type="checkbox" id="contact-toggle">
                 <label class="form-check-label" for="contact-toggle">
@@ -158,21 +159,21 @@
             </div>
             <div class="mb-3 d-none" id="name-email-phone">
                 <label for="name" class="form-label">Name</label>
-                <input type="text" class="form-control" id="name" placeholder="Enter your name">
+                <input type="text" class="form-control" name="Name" id="name" placeholder="Enter your name">
             </div>
             <div class="mb-3 d-none" id="email-phone">
                 <label for="email" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                <input type="email" class="form-control" name="Email" id="email" placeholder="Enter your email">
             </div>
             <div class="mb-3 d-none" id="phone">
                 <label for="phone" class="form-label">Phone number</label>
-                <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number">
+                <input type="tel" class="form-control" name="Phone" id="phone" placeholder="Enter your phone number">
             </div>
             <div class="mb-3">
                 <label for="message" class="form-label">Your Story</label>
-                <textarea class="form-control" id="message" rows="5" placeholder="Share your story"></textarea>
+                <textarea class="form-control" name="Message" id="message" rows="5" placeholder="Share your story"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary" style="margin-bottom: 200px;">Submit</button>
+            <button type="submit" name="submit" class="btn btn-primary" style="margin-bottom: 200px;" onclick="return sendForm();">Submit</button>
         </form>
     </div>
 
@@ -238,7 +239,8 @@
                                         <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part">
                                             <input type="email" name="email" id="newsletter-form-email" placeholder="Email Address" class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
                                             <div class="form-icon">
-                                                <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm"><img src="assets/img/gallery/form.png" alt=""></button>
+                                                <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm"><img
+                                                        src="assets/img/gallery/form.png" alt=""></button>
                                             </div>
                                             <div class="mt-10 info"></div>
                                         </form>
@@ -271,10 +273,11 @@
                             <div class="footer-social f-right">
                                 <a href="https://twitter.com/antidrugsociety"><i class="fab fa-twitter"></i></a>
                                 <a href="https://www.facebook.com/AntiDrugSociety/"><i
-                                            class="fab fa-facebook-f"></i></a>
+                                        class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.linkedin.com/in/ralith-milith-7520ab1b7/?originalSubdomain=in"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                <a href="https://www.instagram.com/anti_drug_society/"><i class="fab fa-instagram"></i></a>
+                                        class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.instagram.com/anti_drug_society/"><i
+                                        class="fab fa-instagram"></i></a>
 
                             </div>
                         </div>
@@ -307,6 +310,42 @@
         }
     });
 </script>
+
+<script>
+    function sendForm() {
+        const form = document.getElementById('contact-form');
+        const formData = new FormData(form);
+        const xhr = new XMLHttpRequest();
+        xhr.open("POST", form.action);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                form.reset();
+                const formHeading = document.getElementById('form-heading');
+                formHeading.innerHTML = 'Thank you for sharing with us <span>&#x1F60A;</span>';
+
+            } else if (xhr.readyState === 4) {
+                const formHeading = document.getElementById('form-heading');
+                formHeading.innerHTML = 'Sorry, an error occurred. Please try again later.';
+            }
+        };
+        xhr.send(formData);
+        return false;
+    }
+</script>
+
+<style>
+    #success-msg,
+    #error-msg {
+        opacity: 0;
+        transition: opacity 2s ease;
+    }
+    
+    #contact-form.success #success-msg,
+    #contact-form.error #error-msg {
+        opacity: 1;
+    }
+</style>
+
 
 
 <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
