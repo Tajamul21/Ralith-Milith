@@ -22,7 +22,10 @@
     <link rel="stylesheet" href="assets/css/slick.css">
     <link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css" integrity="sha512-LR8WzZPwJ88PgLbEeJFrX7WjJl3vzJ1HhsBfZzg/KIj+6C0zdJY5O6y5U5GX5U+ITdYYQ7rH0J0xjAaJZ77YDg==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css" integrity="sha512-LR8WzZPwJ88PgLbEeJFrX7WjJl3vzJ1HhsBfZzg/KIj+6C0zdJY5O6y5U5GX5U+ITdYYQ7rH0J0xjAaJZ77YDg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+    <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+
     />
 </head>
 <!--? Preloader Start -->
@@ -148,15 +151,17 @@
         </div>
     </div>
     <!-- Hero End -->
+    <!-- Form Start -->
     <div class="container mt-80">
-        <h1 id="form-heading">We are here to Listen You &#x1F60A;</h1> <br>
+        <h1 id="form-heading ">We are here to Listen You &#x1F60A;</h1> <br>
         <form id="contact-form" method="post" action="https://script.google.com/macros/s/AKfycbx8mhYWxSCeauf5_hM0nZ3XXHwnRg_edX0VLFlGH-d03F_fglTH3SoSUcsp-V-M-uXO/exec">
-            <div class="form-check mb-3">
+            <div class="form-check form-switch mb-3 mt-3">
                 <input class="form-check-input" type="checkbox" id="contact-toggle">
                 <label class="form-check-label" for="contact-toggle">
-              <b> Do you want to share your contact information?</b> <br> <br>
-            </label>
+                    <b>Do you want to share your contact information?</b>
+                </label>
             </div>
+
             <div class="mb-3 d-none" id="name-email-phone">
                 <label for="name" class="form-label">Name</label>
                 <input type="text" class="form-control" name="Name" id="name" placeholder="Enter your name">
@@ -176,7 +181,7 @@
             <button type="submit" name="submit" class="btn btn-primary" style="margin-bottom: 200px;" onclick="return sendForm();">Submit</button>
         </form>
     </div>
-
+    <!-- Form End -->
 
     <!-- Contact Area End -->
 </main>
@@ -261,10 +266,10 @@
                             <div class="footer-copy-right">
                                 <p>
                                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                    Copyright &copy; 2020 -
+                                    Copyright &copy;
                                     <script>
                                         document.write(new Date().getFullYear());
-                                    </script> All rights reserved
+                                    </script> | Developed by <a href="https://www.linkedin.com/in/musaib-shabir-49179b244/" target="_blank" style="color: white;" onmouseover="this.style.color='#09cc7f'" onmouseout="this.style.color='white'">Musaib Shabir</a>
                                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                                 </p>
                             </div>
@@ -292,6 +297,13 @@
     <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
 </div>
 <!-- JS here -->
+<script>
+    $(function() {
+        $('#contact-toggle').bootstrapToggle();
+    })
+</script>
+
+
 <script>
     const contactToggle = document.getElementById("contact-toggle");
     const nameEmailPhone = document.getElementById("name-email-phone");
