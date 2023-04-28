@@ -3923,6 +3923,19 @@ hr {
     line-height: 1.4;
 }
 
+.section-tittle_1 h1 {
+    font-size: 400%;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+.section-tittle_1 span {
+    color: #09cc7f;
+}
+
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     /* line 936, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
     .section-tittle h2 {
@@ -4566,7 +4579,7 @@ hr {
 /* line 32, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 
 .slider-area {
-    background-image: url(../img/hero/h1_hero.png);
+    background-image: url(../img/hero/h2_hero.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
