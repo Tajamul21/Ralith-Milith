@@ -6708,3 +6708,25 @@ del {
 .switch-wrap {
     margin-bottom: 10px
 }
+
+.slider-area {
+    position: relative !important;
+    overflow: hidden!important;
+}
+
+.single-slider {
+    position: relative!important;
+    width: 100%!important;
+}
+
+@media (max-width: 767px) {
+    .slider-area {
+        height: auto!important;
+    }
+    .single-slider {
+        height: auto!important;
+    }
+    .hero__caption {
+        text-align: center!important;
+    }
+}
