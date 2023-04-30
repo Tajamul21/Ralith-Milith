@@ -746,7 +746,7 @@ hr {
 /* line 310, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 
 .hero-btn {
-    padding: 30px 62px;
+    padding: 25px 105px;
 }
 
 
@@ -3383,8 +3383,8 @@ hr {
 /* line 627, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 
 .preloader .preloader-circle {
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
     position: relative;
     border-style: ridge;
     border-width: 1px;
@@ -3436,8 +3436,8 @@ hr {
 /* line 670, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 
 .preloader .preloader-img img {
-    width: 50px;
-    height: 50px;
+    width: 95px;
+    height: 83px;
 }
 
 
@@ -4582,7 +4582,7 @@ hr {
     background-image: url(../img/hero/h1_hero.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: 2100px;
 }
 
 
@@ -4592,6 +4592,7 @@ hr {
     font-size: 70px;
     font-weight: 800;
     margin-bottom: 14px;
+    margin-top: 50px;
     color: #002d5b;
     line-height: 1.2;
     text-transform: capitalize;
@@ -4649,13 +4650,13 @@ hr {
 
 .slider-area .hero__caption p {
     color: #464d65;
-    margin-bottom: 42px;
+    margin-bottom: 12px;
 }
 
 @media (max-width: 575px) {
     /* line 77, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
     .slider-area .hero__caption p {
-        padding-right: 56px;
+        padding-right: 0px;
     }
 }
 
@@ -7693,7 +7694,10 @@ hr {
 }
 
 
-/* line 1226, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_blog_page.scss */
+/* line 
+
+
+6, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_blog_page.scss */
 
 .single-post-area .quote-wrapper {
     background: rgba(130, 139, 178, 0.1);
