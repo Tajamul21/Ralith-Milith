@@ -4582,7 +4582,7 @@ hr {
     background-image: url(../img/hero/h1_hero.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 100%;
+    background-size: cover;
 }
 
 
