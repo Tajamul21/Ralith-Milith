@@ -4582,7 +4582,16 @@ hr {
     background-image: url(../img/hero/h1_hero.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 2100px;
+    background-size: 100%;
+}
+
+
+/* Removing the h1_heri.png image in the background  */
+
+@media only screen and (max-width: 767px) {
+    .slider-area {
+        background-size: 0% !important;
+    }
 }
 
 
