@@ -261,7 +261,7 @@
 /* 1. Theme default css */
 
 
-/* line 4, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 4, */
 
 body {
     font-family: "Muli", sans-serif;
@@ -271,7 +271,7 @@ body {
 }
 
 
-/* line 10, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 10, */
 
 h1,
 h2,
@@ -288,7 +288,7 @@ h6 {
 }
 
 
-/* line 24, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 24, */
 
 p {
     font-family: "Muli", sans-serif;
@@ -300,28 +300,28 @@ p {
 }
 
 
-/* line 35, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 35, */
 
 .bg-img-1 {
     background-image: url(../img/slider/slider-img-1.jpg);
 }
 
 
-/* line 38, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 38, */
 
 .bg-img-2 {
     background-image: url(../img/background-img/bg-img-2.jpg);
 }
 
 
-/* line 41, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 41, */
 
 .cta-bg-1 {
     background-image: url(../img/background-img/bg-img-3.jpg);
 }
 
 
-/* line 46, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 46, */
 
 .img {
     max-width: 100%;
@@ -332,35 +332,35 @@ p {
 }
 
 
-/* line 50, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 50, */
 
 .f-left {
     float: left;
 }
 
 
-/* line 53, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 53, */
 
 .f-right {
     float: right;
 }
 
 
-/* line 56, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 56, */
 
 .fix {
     overflow: hidden;
 }
 
 
-/* line 59, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 59, */
 
 .clear {
     clear: both;
 }
 
 
-/* line 63, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 63, */
 
 a,
 .button {
@@ -371,7 +371,7 @@ a,
 }
 
 
-/* line 67, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 67, */
 
 a:focus,
 .button:focus {
@@ -380,21 +380,21 @@ a:focus,
 }
 
 
-/* line 72, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 72, */
 
 a {
     color: #635c5c;
 }
 
 
-/* line 75, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 75, */
 
 a:hover {
     color: #fff;
 }
 
 
-/* line 78, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 78, */
 
 a:focus,
 a:hover,
@@ -404,7 +404,7 @@ a:hover,
 }
 
 
-/* line 84, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 84, */
 
 a,
 button {
@@ -413,7 +413,7 @@ button {
 }
 
 
-/* line 89, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 89, */
 
 button:focus,
 input:focus,
@@ -424,14 +424,14 @@ textarea:focus {
 }
 
 
-/* line 90, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 90, */
 
 .uppercase {
     text-transform: uppercase;
 }
 
 
-/* line 94, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 94, */
 
 input:focus::-moz-placeholder {
     opacity: 0;
@@ -441,14 +441,14 @@ input:focus::-moz-placeholder {
 }
 
 
-/* line 101, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 101, */
 
 .capitalize {
     text-transform: capitalize;
 }
 
 
-/* line 105, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 105, */
 
 h1 a,
 h2 a,
@@ -460,7 +460,7 @@ h6 a {
 }
 
 
-/* line 114, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 114, */
 
 ul {
     margin: 0px;
@@ -468,14 +468,14 @@ ul {
 }
 
 
-/* line 118, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 118, */
 
 li {
     list-style: none;
 }
 
 
-/* line 122, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 122, */
 
 hr {
     border-bottom: 1px solid #eceff8;
@@ -488,14 +488,14 @@ hr {
 /* Theme-overlay */
 
 
-/* line 130, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 130, */
 
 .theme-overlay {
     position: relative;
 }
 
 
-/* line 133, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 133, */
 
 .theme-overlay::before {
     background: #1696e7 none repeat scroll 0 0;
@@ -509,7 +509,7 @@ hr {
 }
 
 
-/* line 143, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 143, */
 
 .overlay2 {
     position: relative;
@@ -517,7 +517,7 @@ hr {
 }
 
 
-/* line 147, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 147, */
 
 .overlay2::before {
     position: absolute;
@@ -530,7 +530,7 @@ hr {
 }
 
 
-/* line 157, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 157, */
 
 .overlay2 {
     position: relative;
@@ -538,7 +538,7 @@ hr {
 }
 
 
-/* line 161, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 161, */
 
 .overlay2::before {
     position: absolute;
@@ -553,7 +553,7 @@ hr {
 }
 
 
-/* line 174, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 174, */
 
 .section-padding {
     padding-top: 120px;
@@ -561,28 +561,28 @@ hr {
 }
 
 
-/* line 178, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 178, */
 
 .separator {
     border-top: 1px solid #f2f2f2;
 }
 
 
-/* line 182, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 182, */
 
 .mb-90 {
     margin-bottom: 90px;
 }
 
 @media (max-width: 767px) {
-    /* line 182, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 182, */
     .mb-90 {
         margin-bottom: 30px;
     }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-    /* line 182, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 182, */
     .mb-90 {
         margin-bottom: 45px;
     }
@@ -592,7 +592,7 @@ hr {
 /* owl-carousel button style */
 
 
-/* line 194, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 194, */
 
 .owl-carousel .owl-nav div {
     background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
@@ -612,7 +612,7 @@ hr {
 }
 
 
-/* line 213, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 213, */
 
 .owl-carousel .owl-nav div.owl-next {
     left: auto;
@@ -620,7 +620,7 @@ hr {
 }
 
 
-/* line 216, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 216, */
 
 .owl-carousel .owl-nav div.owl-next i {
     position: relative;
@@ -629,7 +629,7 @@ hr {
 }
 
 
-/* line 223, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 223, */
 
 .owl-carousel .owl-nav div.owl-prev i {
     position: relative;
@@ -638,7 +638,7 @@ hr {
 }
 
 
-/* line 233, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 233, */
 
 .owl-carousel:hover .owl-nav div {
     opacity: 1;
@@ -646,7 +646,7 @@ hr {
 }
 
 
-/* line 236, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 236, */
 
 .owl-carousel:hover .owl-nav div:hover {
     color: #fff;
@@ -654,7 +654,7 @@ hr {
 }
 
 
-/* line 245, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 245, */
 
 .btn {
     background: #09cc7f;
@@ -683,7 +683,7 @@ hr {
 }
 
 
-/* line 271, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 271, */
 
 .btn::before {
     content: "";
@@ -704,7 +704,7 @@ hr {
 }
 
 
-/* line 290, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 290, */
 
 .btn:hover::before {
     transform: scaleX(1);
@@ -713,14 +713,14 @@ hr {
 }
 
 
-/* line 295, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 295, */
 
 .btn:hover {
     background-position: right;
 }
 
 
-/* line 298, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 298, */
 
 .btn.focus,
 .btn:focus {
@@ -729,28 +729,28 @@ hr {
 }
 
 
-/* line 302, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 302, */
 
 .about-btn {
     padding: 19px 97px 19px 20px;
 }
 
 
-/* line 307, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 307, */
 
 .header-btn {
     padding: 30px 57px;
 }
 
 
-/* line 310, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 310, */
 
 .hero-btn {
     padding: 25px 85px;
 }
 
 
-/* line 314, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 314, */
 
 .white-btn {
     padding: 30px 39px;
@@ -759,7 +759,7 @@ hr {
 }
 
 
-/* line 318, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 318, */
 
 .white-btn::before {
     background: #09cc7f;
@@ -767,7 +767,7 @@ hr {
 }
 
 
-/* line 323, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 323, */
 
 .black-btn {
     padding: 14px 35px;
@@ -775,14 +775,14 @@ hr {
 }
 
 
-/* line 326, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 326, */
 
 .black-btn::before {
     background: #331391;
 }
 
 
-/* line 332, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 332, */
 
 .cal-btn i {
     color: #09cc7f !important;
@@ -792,7 +792,7 @@ hr {
 }
 
 
-/* line 338, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 338, */
 
 .cal-btn>p {
     color: #072366 !important;
@@ -805,7 +805,7 @@ hr {
 }
 
 
-/* line 350, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 350, */
 
 .submit-btn2 {
     background: #ec5b53;
@@ -821,7 +821,7 @@ hr {
 }
 
 
-/* line 363, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 363, */
 
 .border-btn {
     border: 1px solid #ff5600;
@@ -845,14 +845,14 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 363, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 363, */
     .border-btn {
         display: none;
     }
 }
 
 
-/* line 387, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 387, */
 
 .border-btn::before {
     border: 1px solid transparent;
@@ -873,7 +873,7 @@ hr {
 }
 
 
-/* line 406, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 406, */
 
 .border-btn:hover::before {
     transform: scaleY(1);
@@ -881,7 +881,7 @@ hr {
 }
 
 
-/* line 412, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 412, */
 
 .section-over1 {
     position: relative;
@@ -889,7 +889,7 @@ hr {
 }
 
 
-/* line 415, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 415, */
 
 .section-over1::before {
     position: absolute;
@@ -909,7 +909,7 @@ hr {
 /* button style */
 
 
-/* line 432, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 432, */
 
 .breadcrumb>.active {
     color: #888;
@@ -919,7 +919,7 @@ hr {
 /* scrollUp */
 
 
-/* line 436, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 436, */
 
 #scrollUp,
 #back-top {
@@ -939,7 +939,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 436, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 436, */
     #scrollUp,
     #back-top {
         right: 16px;
@@ -947,7 +947,7 @@ hr {
 }
 
 
-/* line 453, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 453, */
 
 #scrollUp a i,
 #back-top a i {
@@ -956,7 +956,7 @@ hr {
 }
 
 
-/* line 460, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 460, */
 
 #scrollUp:hover {
     color: #fff;
@@ -966,7 +966,7 @@ hr {
 /* Sticky*/
 
 
-/* line 465, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 465, */
 
 .sticky-bar {
     left: 0;
@@ -993,280 +993,280 @@ hr {
 /*-- Margin Top --*/
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-5 {
     margin-top: 5px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-10 {
     margin-top: 10px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-15 {
     margin-top: 15px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-20 {
     margin-top: 20px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-25 {
     margin-top: 25px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-30 {
     margin-top: 30px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-35 {
     margin-top: 35px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-40 {
     margin-top: 40px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-45 {
     margin-top: 45px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-50 {
     margin-top: 50px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-55 {
     margin-top: 55px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-60 {
     margin-top: 60px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-65 {
     margin-top: 65px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-70 {
     margin-top: 70px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-75 {
     margin-top: 75px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-80 {
     margin-top: 80px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-85 {
     margin-top: 85px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-90 {
     margin-top: 90px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-95 {
     margin-top: 95px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-100 {
     margin-top: 100px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-105 {
     margin-top: 105px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-110 {
     margin-top: 110px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-115 {
     margin-top: 115px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-120 {
     margin-top: 120px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-125 {
     margin-top: 125px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-130 {
     margin-top: 130px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-135 {
     margin-top: 135px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-140 {
     margin-top: 140px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-145 {
     margin-top: 145px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-150 {
     margin-top: 150px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-155 {
     margin-top: 155px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-160 {
     margin-top: 160px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-165 {
     margin-top: 165px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-170 {
     margin-top: 170px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-175 {
     margin-top: 175px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-180 {
     margin-top: 180px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-185 {
     margin-top: 185px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-190 {
     margin-top: 190px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-195 {
     margin-top: 195px;
 }
 
 
-/* line 490, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 490, */
 
 .mt-200 {
     margin-top: 200px;
@@ -1276,280 +1276,280 @@ hr {
 /*-- Margin Bottom --*/
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-5 {
     margin-bottom: 5px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-10 {
     margin-bottom: 10px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-15 {
     margin-bottom: 15px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-20 {
     margin-bottom: 20px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-25 {
     margin-bottom: 25px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-30 {
     margin-bottom: 30px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-35 {
     margin-bottom: 35px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-40 {
     margin-bottom: 40px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-45 {
     margin-bottom: 45px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-50 {
     margin-bottom: 50px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-55 {
     margin-bottom: 55px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-60 {
     margin-bottom: 60px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-65 {
     margin-bottom: 65px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-70 {
     margin-bottom: 70px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-75 {
     margin-bottom: 75px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-80 {
     margin-bottom: 80px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-85 {
     margin-bottom: 85px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-90 {
     margin-bottom: 90px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-95 {
     margin-bottom: 95px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-100 {
     margin-bottom: 100px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-105 {
     margin-bottom: 105px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-110 {
     margin-bottom: 110px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-115 {
     margin-bottom: 115px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-120 {
     margin-bottom: 120px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-125 {
     margin-bottom: 125px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-130 {
     margin-bottom: 130px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-135 {
     margin-bottom: 135px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-140 {
     margin-bottom: 140px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-145 {
     margin-bottom: 145px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-150 {
     margin-bottom: 150px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-155 {
     margin-bottom: 155px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-160 {
     margin-bottom: 160px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-165 {
     margin-bottom: 165px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-170 {
     margin-bottom: 170px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-175 {
     margin-bottom: 175px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-180 {
     margin-bottom: 180px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-185 {
     margin-bottom: 185px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-190 {
     margin-bottom: 190px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-195 {
     margin-bottom: 195px;
 }
 
 
-/* line 495, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 495, */
 
 .mb-200 {
     margin-bottom: 200px;
@@ -1559,280 +1559,280 @@ hr {
 /*-- Margin Left --*/
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-5 {
     margin-left: 5px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-10 {
     margin-left: 10px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-15 {
     margin-left: 15px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-20 {
     margin-left: 20px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-25 {
     margin-left: 25px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-30 {
     margin-left: 30px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-35 {
     margin-left: 35px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-40 {
     margin-left: 40px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-45 {
     margin-left: 45px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-50 {
     margin-left: 50px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-55 {
     margin-left: 55px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-60 {
     margin-left: 60px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-65 {
     margin-left: 65px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-70 {
     margin-left: 70px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-75 {
     margin-left: 75px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-80 {
     margin-left: 80px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-85 {
     margin-left: 85px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-90 {
     margin-left: 90px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-95 {
     margin-left: 95px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-100 {
     margin-left: 100px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-105 {
     margin-left: 105px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-110 {
     margin-left: 110px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-115 {
     margin-left: 115px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-120 {
     margin-left: 120px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-125 {
     margin-left: 125px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-130 {
     margin-left: 130px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-135 {
     margin-left: 135px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-140 {
     margin-left: 140px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-145 {
     margin-left: 145px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-150 {
     margin-left: 150px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-155 {
     margin-left: 155px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-160 {
     margin-left: 160px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-165 {
     margin-left: 165px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-170 {
     margin-left: 170px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-175 {
     margin-left: 175px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-180 {
     margin-left: 180px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-185 {
     margin-left: 185px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-190 {
     margin-left: 190px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-195 {
     margin-left: 195px;
 }
 
 
-/* line 499, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 499, */
 
 .ml-200 {
     margin-left: 200px;
@@ -1842,280 +1842,280 @@ hr {
 /*-- Margin Right --*/
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-5 {
     margin-right: 5px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-10 {
     margin-right: 10px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-15 {
     margin-right: 15px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-20 {
     margin-right: 20px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-25 {
     margin-right: 25px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-30 {
     margin-right: 30px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-35 {
     margin-right: 35px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-40 {
     margin-right: 40px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-45 {
     margin-right: 45px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-50 {
     margin-right: 50px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-55 {
     margin-right: 55px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-60 {
     margin-right: 60px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-65 {
     margin-right: 65px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-70 {
     margin-right: 70px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-75 {
     margin-right: 75px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-80 {
     margin-right: 80px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-85 {
     margin-right: 85px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-90 {
     margin-right: 90px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-95 {
     margin-right: 95px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-100 {
     margin-right: 100px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-105 {
     margin-right: 105px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-110 {
     margin-right: 110px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-115 {
     margin-right: 115px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-120 {
     margin-right: 120px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-125 {
     margin-right: 125px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-130 {
     margin-right: 130px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-135 {
     margin-right: 135px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-140 {
     margin-right: 140px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-145 {
     margin-right: 145px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-150 {
     margin-right: 150px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-155 {
     margin-right: 155px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-160 {
     margin-right: 160px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-165 {
     margin-right: 165px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-170 {
     margin-right: 170px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-175 {
     margin-right: 175px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-180 {
     margin-right: 180px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-185 {
     margin-right: 185px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-190 {
     margin-right: 190px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-195 {
     margin-right: 195px;
 }
 
 
-/* line 504, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 504, */
 
 .mr-200 {
     margin-right: 200px;
@@ -2125,287 +2125,287 @@ hr {
 /*-- Padding Top --*/
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-5 {
     padding-top: 5px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-10 {
     padding-top: 10px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-15 {
     padding-top: 15px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-20 {
     padding-top: 20px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-25 {
     padding-top: 25px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-30 {
     padding-top: 30px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-35 {
     padding-top: 35px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-40 {
     padding-top: 40px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-45 {
     padding-top: 45px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-50 {
     padding-top: 50px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-55 {
     padding-top: 55px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-60 {
     padding-top: 60px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-65 {
     padding-top: 65px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-70 {
     padding-top: 70px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-75 {
     padding-top: 75px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-80 {
     padding-top: 80px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-85 {
     padding-top: 85px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-90 {
     padding-top: 90px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-95 {
     padding-top: 95px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-100 {
     padding-top: 100px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-105 {
     padding-top: 105px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-110 {
     padding-top: 110px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-115 {
     padding-top: 115px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-120 {
     padding-top: 120px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-125 {
     padding-top: 125px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-130 {
     padding-top: 130px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-135 {
     padding-top: 135px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-140 {
     padding-top: 140px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-145 {
     padding-top: 145px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-150 {
     padding-top: 150px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-155 {
     padding-top: 155px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-160 {
     padding-top: 160px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-165 {
     padding-top: 165px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-170 {
     padding-top: 170px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-175 {
     padding-top: 175px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-180 {
     padding-top: 180px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-185 {
     padding-top: 185px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-190 {
     padding-top: 190px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-195 {
     padding-top: 195px;
 }
 
 
-/* line 509, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 509, */
 
 .pt-200 {
     padding-top: 200px;
 }
 
 
-/* line 511, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 511, */
 
 .pt-260 {
     padding-top: 260px;
@@ -2415,280 +2415,280 @@ hr {
 /*-- Padding Bottom --*/
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-5 {
     padding-bottom: 5px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-10 {
     padding-bottom: 10px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-15 {
     padding-bottom: 15px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-20 {
     padding-bottom: 20px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-25 {
     padding-bottom: 25px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-30 {
     padding-bottom: 30px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-35 {
     padding-bottom: 35px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-40 {
     padding-bottom: 40px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-45 {
     padding-bottom: 45px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-50 {
     padding-bottom: 50px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-55 {
     padding-bottom: 55px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-60 {
     padding-bottom: 60px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-65 {
     padding-bottom: 65px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-70 {
     padding-bottom: 70px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-75 {
     padding-bottom: 75px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-80 {
     padding-bottom: 80px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-85 {
     padding-bottom: 85px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-90 {
     padding-bottom: 90px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-95 {
     padding-bottom: 95px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-100 {
     padding-bottom: 100px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-105 {
     padding-bottom: 105px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-110 {
     padding-bottom: 110px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-115 {
     padding-bottom: 115px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-120 {
     padding-bottom: 120px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-125 {
     padding-bottom: 125px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-130 {
     padding-bottom: 130px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-135 {
     padding-bottom: 135px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-140 {
     padding-bottom: 140px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-145 {
     padding-bottom: 145px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-150 {
     padding-bottom: 150px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-155 {
     padding-bottom: 155px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-160 {
     padding-bottom: 160px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-165 {
     padding-bottom: 165px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-170 {
     padding-bottom: 170px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-175 {
     padding-bottom: 175px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-180 {
     padding-bottom: 180px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-185 {
     padding-bottom: 185px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-190 {
     padding-bottom: 190px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-195 {
     padding-bottom: 195px;
 }
 
 
-/* line 516, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 516, */
 
 .pb-200 {
     padding-bottom: 200px;
@@ -2698,280 +2698,280 @@ hr {
 /*-- Padding Left --*/
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-5 {
     padding-left: 5px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-10 {
     padding-left: 10px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-15 {
     padding-left: 15px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-20 {
     padding-left: 20px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-25 {
     padding-left: 25px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-30 {
     padding-left: 30px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-35 {
     padding-left: 35px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-40 {
     padding-left: 40px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-45 {
     padding-left: 45px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-50 {
     padding-left: 50px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-55 {
     padding-left: 55px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-60 {
     padding-left: 60px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-65 {
     padding-left: 65px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-70 {
     padding-left: 70px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-75 {
     padding-left: 75px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-80 {
     padding-left: 80px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-85 {
     padding-left: 85px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-90 {
     padding-left: 90px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-95 {
     padding-left: 95px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-100 {
     padding-left: 100px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-105 {
     padding-left: 105px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-110 {
     padding-left: 110px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-115 {
     padding-left: 115px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-120 {
     padding-left: 120px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-125 {
     padding-left: 125px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-130 {
     padding-left: 130px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-135 {
     padding-left: 135px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-140 {
     padding-left: 140px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-145 {
     padding-left: 145px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-150 {
     padding-left: 150px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-155 {
     padding-left: 155px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-160 {
     padding-left: 160px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-165 {
     padding-left: 165px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-170 {
     padding-left: 170px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-175 {
     padding-left: 175px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-180 {
     padding-left: 180px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-185 {
     padding-left: 185px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-190 {
     padding-left: 190px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-195 {
     padding-left: 195px;
 }
 
 
-/* line 521, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 521, */
 
 .pl-200 {
     padding-left: 200px;
@@ -2981,280 +2981,280 @@ hr {
 /*-- Padding Right --*/
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-5 {
     padding-right: 5px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-10 {
     padding-right: 10px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-15 {
     padding-right: 15px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-20 {
     padding-right: 20px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-25 {
     padding-right: 25px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-30 {
     padding-right: 30px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-35 {
     padding-right: 35px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-40 {
     padding-right: 40px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-45 {
     padding-right: 45px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-50 {
     padding-right: 50px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-55 {
     padding-right: 55px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-60 {
     padding-right: 60px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-65 {
     padding-right: 65px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-70 {
     padding-right: 70px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-75 {
     padding-right: 75px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-80 {
     padding-right: 80px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-85 {
     padding-right: 85px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-90 {
     padding-right: 90px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-95 {
     padding-right: 95px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-100 {
     padding-right: 100px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-105 {
     padding-right: 105px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-110 {
     padding-right: 110px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-115 {
     padding-right: 115px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-120 {
     padding-right: 120px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-125 {
     padding-right: 125px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-130 {
     padding-right: 130px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-135 {
     padding-right: 135px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-140 {
     padding-right: 140px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-145 {
     padding-right: 145px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-150 {
     padding-right: 150px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-155 {
     padding-right: 155px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-160 {
     padding-right: 160px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-165 {
     padding-right: 165px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-170 {
     padding-right: 170px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-175 {
     padding-right: 175px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-180 {
     padding-right: 180px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-185 {
     padding-right: 185px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-190 {
     padding-right: 190px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-195 {
     padding-right: 195px;
 }
 
 
-/* line 526, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 526, */
 
 .pr-200 {
     padding-right: 200px;
@@ -3267,7 +3267,7 @@ hr {
 /* bounce-animate */
 
 
-/* line 537, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 537, */
 
 .bounce-animate {
     animation-name: float-bob;
@@ -3307,7 +3307,7 @@ hr {
 /* heartbeat */
 
 
-/* line 567, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 567, */
 
 .heartbeat {
     animation: heartbeat 1s infinite alternate;
@@ -3324,7 +3324,7 @@ hr {
 /* rotateme */
 
 
-/* line 579, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 579, */
 
 .rotateme {
     -webkit-animation-name: rotateme;
@@ -3361,7 +3361,7 @@ hr {
 /* 20. preloader */
 
 
-/* line 611, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 611, */
 
 .preloader {
     background-color: #ffffff;
@@ -3380,7 +3380,7 @@ hr {
 }
 
 
-/* line 627, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 627, */
 
 
 /* Preloder for desktop View  */
@@ -3435,14 +3435,14 @@ hr {
 }
 
 
-/* line 649, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 649, */
 
 .preloader .preloader-circle2 {
     border-top-color: #0078ff;
 }
 
 
-/* line 652, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 652, */
 
 .preloader .preloader-img {
     position: absolute;
@@ -3463,7 +3463,7 @@ hr {
 }
 
 
-/* line 670, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 670  */
 
 
 /* Preloder IMG in Desktop View*/
@@ -3484,7 +3484,7 @@ hr {
 }
 
 
-/* line 673, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 673, */
 
 .preloader .pere-text strong {
     font-weight: 800;
@@ -3527,7 +3527,7 @@ hr {
 }
 
 
-/* line 713, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 713, */
 
 .slick-initialized .slick-slide {
     outline: 0;
@@ -3537,7 +3537,7 @@ hr {
 /*-- Section Padding -- */
 
 
-/* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 719, */
 
 .section-padding2 {
     padding-top: 200px;
@@ -3545,7 +3545,7 @@ hr {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-    /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 719, */
     .section-padding2 {
         padding-top: 200px;
         padding-bottom: 200px;
@@ -3553,7 +3553,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 719, */
     .section-padding2 {
         padding-top: 200px;
         padding-bottom: 200px;
@@ -3561,7 +3561,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 719, */
     .section-padding2 {
         padding-top: 100px;
         padding-bottom: 100px;
@@ -3569,7 +3569,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 719, */
     .section-padding2 {
         padding-top: 70px;
         padding-bottom: 70px;
@@ -3577,7 +3577,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 719, */
     .section-padding2 {
         padding-top: 70px;
         padding-bottom: 70px;
@@ -3585,84 +3585,84 @@ hr {
 }
 
 
-/* line 744, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 744, */
 
 .pb-bottom {
     padding-bottom: 200px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 744, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 744, */
     .pb-bottom {
         padding-bottom: 200px;
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 744, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 744, */
     .pb-bottom {
         padding-bottom: 50px;
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 744, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 744, */
     .pb-bottom {
         padding-bottom: 10px;
     }
 }
 
 @media (max-width: 575px) {
-    /* line 744, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 744, */
     .pb-bottom {
         padding-bottom: 10px;
     }
 }
 
 
-/* line 759, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 759, */
 
 .pb-top {
     padding-top: 200px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 759, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 759, */
     .pb-top {
         padding-top: 70px;
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 759, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 759, */
     .pb-top {
         padding-top: 70px;
     }
 }
 
 @media (max-width: 575px) {
-    /* line 759, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 759, */
     .pb-top {
         padding-top: 70px;
     }
 }
 
 
-/* line 771, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 771, */
 
 .w-padding2 {
     padding: 80px 50px;
 }
 
 @media (max-width: 575px) {
-    /* line 771, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 771, */
     .w-padding2 {
         padding: 70px 20px;
     }
 }
 
 
-/* line 778, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 778, */
 
 .testimonial-padding {
     padding-top: 190px;
@@ -3670,7 +3670,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 778, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 778, */
     .testimonial-padding {
         padding-top: 190px;
         padding-bottom: 170px;
@@ -3678,7 +3678,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 778, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 778, */
     .testimonial-padding {
         padding-top: 70px;
         padding-bottom: 60px;
@@ -3686,7 +3686,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 778, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 778, */
     .testimonial-padding {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -3694,7 +3694,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 778, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 778, */
     .testimonial-padding {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -3702,7 +3702,7 @@ hr {
 }
 
 
-/* line 798, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 798, */
 
 .w-padding {
     padding-top: 100px;
@@ -3710,7 +3710,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 798, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 798, */
     .w-padding {
         padding-top: 70px;
         padding-bottom: 70px;
@@ -3718,7 +3718,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 798, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 798, */
     .w-padding {
         padding-top: 70px;
         padding-bottom: 70px;
@@ -3726,7 +3726,7 @@ hr {
 }
 
 
-/* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 810, */
 
 .section-padding30 {
     padding-top: 195px;
@@ -3734,7 +3734,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 810, */
     .section-padding30 {
         padding-top: 150px;
         padding-bottom: 140px;
@@ -3742,7 +3742,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 810, */
     .section-padding30 {
         padding-top: 100px;
         padding-bottom: 70px;
@@ -3750,7 +3750,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 810, */
     .section-padding30 {
         padding-top: 65px;
         padding-bottom: 70px;
@@ -3758,7 +3758,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 810, */
     .section-padding30 {
         padding-top: 65px;
         padding-bottom: 70px;
@@ -3766,7 +3766,7 @@ hr {
 }
 
 
-/* line 830, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 830, */
 
 .services-padding {
     padding-top: 145px;
@@ -3774,7 +3774,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 830, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 830, */
     .services-padding {
         padding-top: 145px;
         padding-bottom: 170px;
@@ -3782,7 +3782,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 830, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 830, */
     .services-padding {
         padding-top: 100px;
         padding-bottom: 70px;
@@ -3790,7 +3790,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 830, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 830, */
     .services-padding {
         padding-top: 65px;
         padding-bottom: 70px;
@@ -3798,7 +3798,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 830, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 830, */
     .services-padding {
         padding-top: 65px;
         padding-bottom: 70px;
@@ -3806,7 +3806,7 @@ hr {
 }
 
 
-/* line 850, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 850, */
 
 .section-paddingt30 {
     padding-top: 195px;
@@ -3814,7 +3814,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 850, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 850, */
     .section-paddingt30 {
         padding-top: 150px;
         padding-bottom: 90px;
@@ -3822,7 +3822,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 850, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 850, */
     .section-paddingt30 {
         padding-top: 100px;
         padding-bottom: 40px;
@@ -3830,7 +3830,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 850, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 850, */
     .section-paddingt30 {
         padding-top: 65px;
         padding-bottom: 10px;
@@ -3838,7 +3838,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 850, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 850, */
     .section-paddingt30 {
         padding-top: 65px;
         padding-bottom: 10px;
@@ -3846,7 +3846,7 @@ hr {
 }
 
 
-/* line 872, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 872, */
 
 .section-padding3 {
     padding-top: 150px;
@@ -3854,7 +3854,7 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 872, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 872, */
     .section-padding3 {
         padding-top: 150px;
         padding-bottom: 0;
@@ -3862,7 +3862,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 872, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 872, */
     .section-padding3 {
         padding-top: 60px;
         padding-bottom: 0;
@@ -3870,7 +3870,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 872, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 872, */
     .section-padding3 {
         padding-top: 60px;
         padding-bottom: 0;
@@ -3878,7 +3878,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 872, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 872, */
     .section-padding3 {
         padding-top: 60px;
         padding-bottom: 0;
@@ -3886,7 +3886,7 @@ hr {
 }
 
 
-/* line 893, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 893, */
 
 .footer-padding {
     padding-top: 160px;
@@ -3894,7 +3894,7 @@ hr {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 893, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 893, */
     .footer-padding {
         padding-top: 100px;
         padding-bottom: 70px;
@@ -3902,7 +3902,7 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 893, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 893, */
     .footer-padding {
         padding-top: 80px;
         padding-bottom: 70px;
@@ -3910,7 +3910,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 893, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 893, */
     .footer-padding {
         padding-top: 80px;
         padding-bottom: 0px;
@@ -3918,7 +3918,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 913, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 913, */
     .section-tittle {
         margin-bottom: 50px;
         text-align: left !important;
@@ -3926,14 +3926,14 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 913, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 913, */
     .section-tittle {
         margin-bottom: 50px;
     }
 }
 
 
-/* line 921, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 921, */
 
 .section-tittle span {
     font-size: 18px;
@@ -3946,7 +3946,7 @@ hr {
 }
 
 @media (max-width: 575px) {
-    /* line 921, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 921, */
     .section-tittle span {
         font-size: 14px;
         padding-left: 0px;
@@ -3955,7 +3955,7 @@ hr {
 }
 
 
-/* line 936, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 936, */
 
 .section-tittle h2 {
     font-size: 42px;
@@ -3980,21 +3980,21 @@ hr {
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 936, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 936, */
     .section-tittle h2 {
         font-size: 41px;
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 936, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 936, */
     .section-tittle h2 {
         font-size: 31px;
     }
 }
 
 @media (max-width: 575px) {
-    /* line 936, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+    /* line 936, */
     .section-tittle h2 {
         text-align: left;
         font-size: 27px;
@@ -4002,7 +4002,7 @@ hr {
 }
 
 
-/* line 957, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 957, */
 
 .section-bg {
     background-size: cover;
@@ -4012,7 +4012,7 @@ hr {
 }
 
 
-/* line 963, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
+/* line 963, */
 
 .section-bg2 {
     background-size: cover;
