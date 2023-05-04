@@ -3382,12 +3382,15 @@ hr {
 
 /* line 627, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 
+
+/* Preloder for desktop View  */
+
 .preloader .preloader-circle {
     width: 125px;
     height: 125px;
     position: relative;
     border-style: ridge;
-    border-width: 1px;
+    border-width: 2px;
     border-top-color: #09cc7f;
     border-bottom-color: transparent;
     border-left-color: transparent;
@@ -3402,6 +3405,33 @@ hr {
     -webkit-transition: .6s;
     -o-transition: .6s;
     transition: .6s;
+}
+
+
+/* Preloder for Mobile View  */
+
+@media screen and (max-width: 767px) {
+    .preloader .preloader-circle {
+        width: 90px;
+        height: 90px;
+        position: relative;
+        border-style: ridge;
+        border-width: 2px;
+        border-top-color: #09cc7f;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+        border-right-color: transparent;
+        z-index: 10;
+        border-radius: 50%;
+        -webkit-box-shadow: 0 1px 5px 0 rgba(35, 181, 185, 0.15);
+        box-shadow: 0 1px 5px 0 rgba(35, 181, 185, 0.15);
+        background-color: #fff;
+        -webkit-animation: zoom 5000000ms infinite ease-out;
+        animation: zoom 900ms infinite ease-out;
+        -webkit-transition: .6s;
+        -o-transition: .6s;
+        transition: .6s;
+    }
 }
 
 
@@ -3435,9 +3465,22 @@ hr {
 
 /* line 670, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 
+
+/* Preloder IMG in Desktop View*/
+
 .preloader .preloader-img img {
-    width: 95px;
-    height: 83px;
+    width: 65px;
+    height: auto;
+}
+
+
+/* Preloder IMG in Mobile View*/
+
+@media screen and (max-width: 767px) {
+    .preloader .preloader-img img {
+        width: 52px;
+        height: auto;
+    }
 }
 
 
