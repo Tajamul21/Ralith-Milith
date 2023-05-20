@@ -6215,7 +6215,7 @@ button.close {
     width: 15%;
     color: #fff;
     text-align: center;
-    opacity: 0.4;
+    opacity: 1;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
@@ -6237,7 +6237,7 @@ button.close {
 .carousel-control-prev:hover {
     color: #fff;
     text-decoration: none;
-    outline: 0;
+    outline: 0.5;
     opacity: 1;
 }
 
